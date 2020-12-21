@@ -1,4 +1,4 @@
 # hello-world
-This is a repository created while going through the getting started readme
+This is my repository for going through training of various types
 
 Not much in it, just validating that things work as written
